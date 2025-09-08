@@ -53,7 +53,7 @@ frontend/
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AY-10/2201641530040
 cd frontend
 ```
 
